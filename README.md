@@ -1,1 +1,3 @@
-"# chatApp" 
+for installation
+
+npm install
